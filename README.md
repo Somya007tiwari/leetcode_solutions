@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
 |  |
@@ -50,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
