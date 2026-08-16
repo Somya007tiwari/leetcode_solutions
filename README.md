@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
