@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0169-majority-element) |
+| [0287-find-the-duplicate-number](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0845-longest-mountain-in-array](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0845-longest-mountain-in-array) |
 | [1386-cinema-seat-allocation](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Tree
 |  |
@@ -89,12 +91,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0015-3sum) |
+| [0287-find-the-duplicate-number](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0845-longest-mountain-in-array](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0845-longest-mountain-in-array) |
 ## Dynamic Programming
@@ -168,4 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
