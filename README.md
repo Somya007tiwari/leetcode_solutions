@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0451-sort-characters-by-frequency](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1540-can-convert-string-in-k-moves](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1540-can-convert-string-in-k-moves) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0015-3sum) |
 | [0287-find-the-duplicate-number](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0845-longest-mountain-in-array](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0845-longest-mountain-in-array) |
 | [1563-stone-game-v](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1563-stone-game-v) |
 ## Enumeration
@@ -190,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
