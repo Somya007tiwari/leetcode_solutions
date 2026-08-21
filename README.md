@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1386-cinema-seat-allocation](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0205-isomorphic-strings](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1540-can-convert-string-in-k-moves](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1540-can-convert-string-in-k-moves) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
