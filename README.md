@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1540-can-convert-string-in-k-moves](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1540-can-convert-string-in-k-moves) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1927-sum-game](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1927-sum-game) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [1563-stone-game-v](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [1386-cinema-seat-allocation](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
