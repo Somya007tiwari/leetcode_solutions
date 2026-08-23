@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1540-can-convert-string-in-k-moves](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1540-can-convert-string-in-k-moves) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [1563-stone-game-v](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1563-stone-game-v) |
 | [1927-sum-game](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/2029-stone-game-ix) |
