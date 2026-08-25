@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1872-stone-game-viii) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2029-stone-game-ix](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
