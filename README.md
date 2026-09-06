@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1021-remove-outermost-parentheses](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1436-destination-city](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1436-destination-city) |
 | [1540-can-convert-string-in-k-moves](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1540-can-convert-string-in-k-moves) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -330,8 +331,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
