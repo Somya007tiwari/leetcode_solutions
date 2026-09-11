@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0027-remove-element) |
 | [0142-linked-list-cycle-ii](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0845-longest-mountain-in-array](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0845-longest-mountain-in-array) |
@@ -246,12 +247,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -362,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0796-rotate-string) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
