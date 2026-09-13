@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0835-image-overlap) |
 | [0845-longest-mountain-in-array](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0845-longest-mountain-in-array) |
 | [0904-fruit-into-baskets](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
 |  |
