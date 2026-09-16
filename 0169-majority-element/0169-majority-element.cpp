@@ -1,19 +1,27 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-       int count = 0;
-        int candidate = 0;
-
-        // Phase 1: find a candidate
-        for (int num : nums) {
-            if (count == 0) {
-                candidate = num;
+        int cnt = 0; //BOYER MOORE ALGORITHM 
+        int element ;
+        for(int i = 0; i < nums.size(); i++){
+            if(cnt == 0){
+                cnt = 1;
+                element = nums[i];
             }
-            count += (num == candidate) ? 1 : -1;
+            else if (nums[i] == element){
+                cnt ++;
+            }
+            else {
+                cnt --;
+            }
         }
-
-        // Phase 2 (optional, only needed if majority isn't guaranteed):
-        // verify candidate actually appears > n/2 times
-        return candidate; 
+        int cnt1 = 0;
+        for(int i = 0; i < nums.size(); i++){
+            if(nums[i] == element) cnt1++;
+        }
+        if(cnt1 > (nums.size() / 2)){
+            return element;
+        }
+        return -1;
     }
 };
