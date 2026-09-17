@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1386-cinema-seat-allocation](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1436-destination-city](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1436-destination-city) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [1386-cinema-seat-allocation](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1436-destination-city](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1436-destination-city) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1540-can-convert-string-in-k-moves](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1540-can-convert-string-in-k-moves) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Tree
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0845-longest-mountain-in-array](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0845-longest-mountain-in-array) |
 | [0940-distinct-subsequences-ii](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1872-stone-game-viii) |
