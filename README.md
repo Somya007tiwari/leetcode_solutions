@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0835-image-overlap) |
 | [0845-longest-mountain-in-array](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0845-longest-mountain-in-array) |
+| [0875-koko-eating-bananas](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0875-koko-eating-bananas](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
