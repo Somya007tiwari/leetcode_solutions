@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0904-fruit-into-baskets](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
+| [1096-brace-expansion-ii](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1436-destination-city](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1436-destination-city) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1436-destination-city](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1436-destination-city) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1540-can-convert-string-in-k-moves](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1540-can-convert-string-in-k-moves) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1096-brace-expansion-ii](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -409,11 +412,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0547-number-of-provinces) |
+| [1096-brace-expansion-ii](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -425,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
