@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0845-longest-mountain-in-array](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0845-longest-mountain-in-array) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Breadth-First Search
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
