@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0100-same-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0100-same-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0100-same-tree) |
 | [0547-number-of-provinces](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [1096-brace-expansion-ii](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0100-same-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0547-number-of-provinces](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0547-number-of-provinces) |
 ## Newton's Method
