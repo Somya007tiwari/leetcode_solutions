@@ -11,18 +11,27 @@
  */
 class Solution {
 public:
-    void inorder(TreeNode* node, vector<int>& ans) {
-        // base case: node NULL hai to wapas chalo
-        if (node == NULL) return;
-
-        inorder(node->left, ans);   // pehle poora left subtree
-        ans.push_back(node->val);   // fir root ko ans mein daalo
-        inorder(node->right, ans);  // last mein right subtree
-    }
-
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> ans;
-        inorder(root, ans);
+        stack<TreeNode*> st;
+        TreeNode* node = root;
+
+        while (true) {
+            if (node != NULL) {
+                // node hai to stack mein daalo aur left jao
+                st.push(node);
+                node = node->left;
+            }
+            else {
+                // left NULL ho gaya, ab stack check karo
+                if (st.empty()) break;      // stack khaali = traversal khatam
+
+                node = st.top();            // sabse recent node nikalo
+                st.pop();
+                ans.push_back(node->val);   // is node ko visit karo (root step)
+                node = node->right;         // ab right subtree pe jao
+            }
+        }
         return ans;
     }
 };
