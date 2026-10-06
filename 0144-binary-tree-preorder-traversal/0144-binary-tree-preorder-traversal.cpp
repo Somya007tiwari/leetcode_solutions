@@ -13,33 +13,19 @@ class Solution {
 public:
     vector<int> preorderTraversal(TreeNode* root) {
         vector<int> ans;
-        TreeNode* curr = root;
+        if (root == NULL) return ans;   // empty tree ka edge case
 
-        while (curr != NULL) {
-            if (curr->left == NULL) {
-                // left nahi hai to curr ko visit karo, fir right jao
-                ans.push_back(curr->val);
-                curr = curr->right;
-            }
-            else {
-                // left subtree ka rightmost node (predecessor) dhundo
-                TreeNode* prev = curr->left;
-                while (prev->right != NULL && prev->right != curr) {
-                    prev = prev->right;
-                }
+        stack<TreeNode*> st;
+        st.push(root);
 
-                if (prev->right == NULL) {
-                    // thread nahi bana: link banao prev -> curr
-                    prev->right = curr;
-                    ans.push_back(curr->val);  // preorder: left jaane se PEHLE visit
-                    curr = curr->left;
-                }
-                else {
-                    // thread already hai: left subtree complete ho chuka
-                    prev->right = NULL;        // thread todo
-                    curr = curr->right;        // ab visit nahi karna, bas right jao
-                }
-            }
+        while (!st.empty()) {
+            TreeNode* node = st.top();  // top node nikalo
+            st.pop();
+            ans.push_back(node->val);   // root step: visit karo
+
+            // right pehle push, taaki left pehle pop ho
+            if (node->right != NULL) st.push(node->right);
+            if (node->left != NULL)  st.push(node->left);
         }
         return ans;
     }
