@@ -13,23 +13,32 @@ class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> ans;
-        stack<TreeNode*> st;
-        TreeNode* node = root;
+        TreeNode* curr = root;
 
-        while (true) {
-            if (node != NULL) {
-                // node hai to stack mein daalo aur left jao
-                st.push(node);
-                node = node->left;
+        while (curr != NULL) {
+            if (curr->left == NULL) {
+                // left nahi hai to curr ko visit karo, fir right jao
+                ans.push_back(curr->val);
+                curr = curr->right;
             }
             else {
-                // left NULL ho gaya, ab stack check karo
-                if (st.empty()) break;      // stack khaali = traversal khatam
+                // left subtree ka rightmost node dhundo (predecessor)
+                TreeNode* prev = curr->left;
+                while (prev->right != NULL && prev->right != curr) {
+                    prev = prev->right;
+                }
 
-                node = st.top();            // sabse recent node nikalo
-                st.pop();
-                ans.push_back(node->val);   // is node ko visit karo (root step)
-                node = node->right;         // ab right subtree pe jao
+                if (prev->right == NULL) {
+                    // thread nahi bana hai: link banao prev -> curr
+                    prev->right = curr;
+                    curr = curr->left;      // ab left mein jao
+                }
+                else {
+                    // thread already hai matlab left subtree complete ho chuka
+                    prev->right = NULL;     // thread todo (tree wapas original)
+                    ans.push_back(curr->val); // ab curr ko visit karo
+                    curr = curr->right;     // right subtree pe jao
+                }
             }
         }
         return ans;
