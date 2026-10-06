@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0856-score-of-parentheses) |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0547-number-of-provinces](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0547-number-of-provinces) |
 ## Newton's Method
