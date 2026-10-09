@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0057-insert-interval) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Manacher
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0835-image-overlap](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
