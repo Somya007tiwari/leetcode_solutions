@@ -1,29 +1,32 @@
 class Solution {
 public:
     int romanToInt(string s) {
+     int ans = 0;
+     for(int i = 0; i<s.size(); i++){
+        int curr = 0, next = 0;
+        if(s[i] == 'I')curr = 1;
+        else if(s[i] == 'V')curr = 5;
+        else if(s[i] == 'X')curr = 10;
+        else if(s[i] == 'L')curr = 50;
+        else if(s[i] == 'C')curr = 100;
+        else if(s[i] == 'D')curr = 500;
+        else if(s[i] == 'M')curr = 1000;
 
-        unordered_map<char, int> mp = {
-            {'I', 1},
-            {'V', 5},
-            {'X', 10},
-            {'L', 50},
-            {'C', 100},
-            {'D', 500},
-            {'M', 1000}
-        };
-
-        int ans = 0;
-
-        for (int i = 0; i < s.size(); i++) {
-
-            if (i + 1 < s.size() && mp[s[i]] < mp[s[i + 1]]) {
-                ans -= mp[s[i]];
-            }
-            else {
-                ans += mp[s[i]];
-            }
+     if(i+1<s.size()){
+        if(s[i+1] == 'I')next=1;
+        if(s[i+1] == 'V')next=5;
+        if(s[i+1] == 'X')next=10;
+        if(s[i+1] == 'L')next=50;
+        if(s[i+1] == 'C')next=100;
+        if(s[i+1] == 'D')next=500;
+        if(s[i+1] == 'M')next=1000;
         }
-
-        return ans;
+        if(curr<next){
+            ans -= curr;
+        }else {
+            ans += curr;
+        }
+     }
+     return ans;   
     }
 };
