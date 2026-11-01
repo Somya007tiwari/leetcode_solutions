@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0057-insert-interval) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0169-majority-element) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -422,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/0169-majority-element) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Somya007tiwari/leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
